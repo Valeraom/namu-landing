@@ -14,7 +14,7 @@ BEM
 ## Demo:
 [NAMU](https://valeraom.github.io/namu-landing/)
 
-[Demo GIF](public/images/namu-review.gif)
+![Demo GIF](public/images/namu-review.gif)
 
 ## Design
 [Figma](https://www.figma.com/design/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323-1957&node-type=canvas&t=uXVTeA5RkGl4tteA-0)
